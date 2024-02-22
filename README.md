@@ -1,1 +1,1 @@
-# bugNote
+# Notes sur des bugs rencontrés
